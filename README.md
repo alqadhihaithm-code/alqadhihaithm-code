@@ -1,6 +1,6 @@
 # Haitham Alqadhi
 
-Frontend Developer · WordPress · BSc Computer Science
+Frontend Developer · WordPress · BCA Computer Science
 
 ---
 
