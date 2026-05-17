@@ -33,9 +33,7 @@ Arabic — Native    |    English — Fluent    |    Dutch — A2
 
 ---
 
-**GitHub Stats**
-
-<div align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=alqadhihaithm-code&color=grey&style=flat&label=profile+views)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=alqadhihaithm-code&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true&icon_color=555&text_color=333)
 &nbsp;&nbsp;
