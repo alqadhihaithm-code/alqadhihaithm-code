@@ -37,9 +37,9 @@ Arabic — Native    |    English — Fluent    |    Dutch — A2
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_alqadhihaithm-code&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true&icon_color=555&text_color=333)
+![Stats](https://github-readme-stats.vercel.app/api?username=alqadhihaithm-code&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true&icon_color=555&text_color=333)
 &nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_alqadhihaithm-code=compact&hide_border=true&theme=default&text_color=333)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alqadhihaithm-code=compact&hide_border=true&theme=default&text_color=333)
 
 </div>
 
